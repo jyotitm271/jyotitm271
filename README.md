@@ -1,5 +1,19 @@
 ## Hi 👋 , It's me Jyoti Tamang
 
+# ** About Me: **
+
+## 🚀Doing everything
+## 🌱Learning: Python, ML, APIs and Docker
+## 🎯Focusing on developing software projects
+## [✉️You can reach me through](tamangjyoti@gmail.com)
+## [🔗Linkedin](https://www.linkedin.com/in/jyoti-tamang-25a151297/)
+
+
+
+
+
+
+
 .
 
 
