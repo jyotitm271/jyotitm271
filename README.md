@@ -6,8 +6,8 @@
  🔭Currently working on: AI-powered chatbot, Containerization and Docker  
  🌱Learning: Machine Learning and backend development  
  🎯Focusing on developing software projects  
- ✉️You can reach me through:[tamangjyoti271@gmail.com](tamangjyoti@gmail.com)  
- 🔗Linkedin:[JyotiTamang](https://www.linkedin.com/in/jyoti-tamang-25a151297/)  
+ ✉️You can reach me through:[ tamangjyoti271@gmail.com](tamangjyoti@gmail.com)  
+ 🔗Linkedin:[ JyotiTamang](https://www.linkedin.com/in/jyoti-tamang-25a151297/)  
 
 
 
