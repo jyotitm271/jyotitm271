@@ -1,4 +1,4 @@
-## Hi 👋 , It's me Jyoti Tamang
+## Hi 👋 , It's me Jyoti
 
 # 👨‍💻 About Me: 
 
